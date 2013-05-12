@@ -1,0 +1,9 @@
+MIDlet-Name: JiyoApps
+MIDlet-Version: 1.09
+MIDlet-Vendor: Bajaj Allianz
+MIDlet-Jar-URL: JiyoApps.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Jiyo Apps,53X48pxmisdata2icon.png,
+RIM-MIDlet-Flags-1: 0

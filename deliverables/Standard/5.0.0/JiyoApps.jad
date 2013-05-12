@@ -1,0 +1,37 @@
+RIM-COD-SHA1-4: 1c 83 34 cf 49 d3 f5 6a 54 c1 a3 e6 25 f7 0d 5a 90 39 37 fd
+RIM-COD-SHA1-3: b9 d7 43 10 df 4b 35 bb da b0 fb 02 1e 69 3f 78 9f ae 42 8e
+RIM-COD-SHA1-2: 56 f0 20 ea 93 2e e6 4a 0e 2c d8 0b 3b 6c 84 00 81 7a 60 e2
+RIM-COD-SHA1-1: fe ba 1b ab 63 4a 2b c4 f2 1d 0d 2b ca 29 5b e5 e3 9e 23 e7
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 880982
+MIDlet-Name: JiyoApps
+MIDlet-Jar-URL: JiyoApps.jar
+MicroEdition-Configuration: CLDC-1.1
+RIM-COD-URL-7: JiyoApps-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_ui_api,net_rim_bbapi_browser,net_rim_bbapi_messagelist,net_rim_os,net_rim_bbapi_invoke
+RIM-COD-URL-6: JiyoApps-6.cod
+RIM-COD-URL-5: JiyoApps-5.cod
+RIM-COD-URL-4: JiyoApps-4.cod
+RIM-COD-URL-3: JiyoApps-3.cod
+RIM-COD-URL-2: JiyoApps-2.cod
+RIM-COD-URL-1: JiyoApps-1.cod
+RIM-COD-Size-7: 65052
+RIM-COD-Size-6: 54008
+RIM-COD-Size-5: 55196
+RIM-COD-Size-4: 57204
+RIM-COD-Size-3: 72308
+RIM-COD-Module-Name: JiyoApps
+RIM-COD-Size-2: 36896
+RIM-COD-Size-1: 48260
+RIM-COD-SHA1: 38 c7 d9 58 46 aa 97 71 61 c7 31 84 ea 9d c1 2a cd 62 7b 2d
+RIM-COD-Size: 29976
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Bajaj Allianz
+MIDlet-1: Jiyo Apps,53X48pxmisdata2icon.png,
+RIM-COD-URL: JiyoApps.cod
+Manifest-Version: 1.0
+MIDlet-Version: 1.09
+RIM-COD-SHA1-7: a0 ee 87 f6 c3 c0 80 6c 95 26 34 b7 9f e4 bb 2a 8f 35 15 a2
+RIM-COD-Creation-Time: 1328244531
+RIM-COD-SHA1-6: 83 db 92 28 71 b1 6a 83 5f 72 a7 7d f6 1f ba 62 c2 78 8a 46
+RIM-COD-SHA1-5: a4 73 5f b9 dd 44 a4 2f a7 7a 46 9a 27 1e eb d2 6e 06 42 49
